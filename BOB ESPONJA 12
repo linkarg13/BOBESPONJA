@@ -1,0 +1,20 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/28/06/34/0334746.jpg"group-title="",1
+https://server20.mxcdnab.online/newhls/4ed40b2a237f3cadffd8eb0d0e3c8b07/EP.1.1.v0.1677099186.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/28/06/34/0334746.jpg"group-title="",2
+https://server21.mxcdnab.online/newhls/4ed40b2a237f3cadffd8eb0d0e3c8b07/EP.2.1.v0.1677122821.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/28/06/34/0334746.jpg"group-title="",3
+https://server22.mxcdnab.online/newhls/4ed40b2a237f3cadffd8eb0d0e3c8b07/EP.3.1.v0.1676817792.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/28/06/34/0334746.jpg"group-title="",4
+https://server23.mxcdnab.online/newhls/4ed40b2a237f3cadffd8eb0d0e3c8b07/EP.4.1.v0.1677319044.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/28/06/34/0334746.jpg"group-title="",5
+https://server24.mxcdnab.online/newhls/4ed40b2a237f3cadffd8eb0d0e3c8b07/EP.7.1.v0.1676822736.360.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/r_1280_720/pictures/20/04/28/06/34/0334746.jpg"group-title="",6
+https://server25.mxcdnab.online/newhls/4ed40b2a237f3cadffd8eb0d0e3c8b07/EP.8.1.v0.1676843354.360.m3u8
